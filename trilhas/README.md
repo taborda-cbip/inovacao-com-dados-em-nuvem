@@ -1,3 +1,3 @@
 # Materiais das trilhas
 
-Alguns materiais das trilhas.... :-)
+Nossos materiais das palestras e workshops... :-)

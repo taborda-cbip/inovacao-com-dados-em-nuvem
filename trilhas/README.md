@@ -1,3 +1,3 @@
-# Materiais das Trilha Inovação com dados em nuvem
+# Materiais da Trilha Inovação com dados em nuvem
 
 Nossos materiais das palestras e workshops... :-)
